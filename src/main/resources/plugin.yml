@@ -1,0 +1,4 @@
+  name: 'Greylist'
+  main: 'com.crashhascrashed.greylist.Main'
+  version: '0.1'
+  api-version: '1.17'
